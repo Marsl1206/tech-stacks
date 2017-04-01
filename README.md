@@ -6,21 +6,21 @@
 
 > 搭建HTTP/HTTPS服务器的工具
 
-- [node.js]()
+- [node.js](https://nodejs.org/)
 
 > 数据库
 
-- [mongodb]()
+- [mongodb](https://www.mongodb.com/)
 - [mysql]()
 
 ### web frames
 
 > 基于[node.js]()的web开发框架
 
-- [Express]()
-- [Sails]()
-- [Koa]()
-- [Egg]()
+- [Express](http://expressjs.com/)
+- [Sails](http://sailsjs.com/)
+- [Koa](http://koajs.com/)
+- [Egg](https://eggjs.org/)
 
 ## browser side
 
@@ -29,14 +29,19 @@
 ### js frames
 
 - [jQuery]()
-- [Vue]()
-- [React]()
+- [Vue](http://vuejs.org/)
+- [React](https://facebook.github.io/react/)
 
 ### ui frames
 
-- [Semantic UI]()
-- [Bootstrap]()
-- [Amaze UI]()
+- [Semantic UI](https://semantic-ui.com/)
+- [Bootstrap](http://getbootstrap.com/)
+- [Amaze UI](http://amazeui.org/)
+
+### css animations
+
+- [Hover.css](http://ianlunn.github.io/Hover/)
+- [AniCollection](anicollection.github.io/#/)
 
 ## websocket
 
